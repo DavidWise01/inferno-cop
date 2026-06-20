@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Southern Cross",
+  "universe": "ICP · The Southern Cross (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Southern Cross:ICP:c539c2⟧",
+  "carbon": "the-southern-cross.carbon.tiff (TIFF)",
+  "silicon": "the-southern-cross.silicon.png (PNG)",
+  "seal_sha256": "88ca8468ea5da275b7b30f61d657f67bb90185d4e1e3626c574a2850912d4e90",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

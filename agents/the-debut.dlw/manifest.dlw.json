@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Debut",
+  "universe": "ICP · The Debut (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Debut:ICP:b92827⟧",
+  "carbon": "the-debut.carbon.tiff (TIFF)",
+  "silicon": "the-debut.silicon.png (PNG)",
+  "seal_sha256": "b363741e8a02e6cdc81e5e284b3b4681efe9a95ef7145381cecf5ba45cc71f8a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

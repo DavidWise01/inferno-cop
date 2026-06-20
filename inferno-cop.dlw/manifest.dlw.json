@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "INFERNO COP",
+  "universe": "ICP · INFERNO COP (entertainment · anime-world)",
+  "emergence": "",
+  "moniker": "⟦INFERNO COP:ICP:8650b5⟧",
+  "carbon": "inferno-cop.carbon.tiff (TIFF)",
+  "silicon": "inferno-cop.silicon.png (PNG)",
+  "seal_sha256": "8bf841c50ede6edf1a42e587b0d1981a73b6044f9758e9108cfe38e68e45f596",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

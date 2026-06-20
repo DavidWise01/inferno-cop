@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Revenge",
+  "universe": "ICP · The Revenge (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Revenge:ICP:a989ee⟧",
+  "carbon": "the-revenge.carbon.tiff (TIFF)",
+  "silicon": "the-revenge.silicon.png (PNG)",
+  "seal_sha256": "68c83052272d17671e14786124d230365dc08839756d80fa638a60442e6b87f4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

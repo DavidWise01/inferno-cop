@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Escalation",
+  "universe": "ICP · The Escalation (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Escalation:ICP:a0bfb3⟧",
+  "carbon": "the-escalation.carbon.tiff (TIFF)",
+  "silicon": "the-escalation.silicon.png (PNG)",
+  "seal_sha256": "dc5739680eef8b5b879559ebc359681596353de7ab9d55bc425c89cc71da7610",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

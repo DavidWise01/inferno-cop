@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Cardboard Animation",
+  "universe": "ICP · Cardboard Animation (entertainment)",
+  "emergence": "electrical",
+  "moniker": "⟦Cardboard Animation:ICP:c0e525⟧",
+  "carbon": "cardboard-animation.carbon.tiff (TIFF)",
+  "silicon": "cardboard-animation.silicon.png (PNG)",
+  "seal_sha256": "14e99fb5e3f292b2e0267444d28d3eccf82a005d9537d1182e8be7176900cf84",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

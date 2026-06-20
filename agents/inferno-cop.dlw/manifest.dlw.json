@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Inferno Cop",
+  "universe": "ICP · Inferno Cop (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Inferno Cop:ICP:a72d77⟧",
+  "carbon": "inferno-cop.carbon.tiff (TIFF)",
+  "silicon": "inferno-cop.silicon.png (PNG)",
+  "seal_sha256": "6263c4ab36b47e4ad18f059655b325ee54751eb2807ce835cdb350c55e0b4ce2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

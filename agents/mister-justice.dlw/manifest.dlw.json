@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Mister Justice",
+  "universe": "ICP · Mister Justice (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦Mister Justice:ICP:8b6c02⟧",
+  "carbon": "mister-justice.carbon.tiff (TIFF)",
+  "silicon": "mister-justice.silicon.png (PNG)",
+  "seal_sha256": "2a94aded45de29224f6b96d0b4b74c40867beca192b1dfb607eb12fc4a42c4ce",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
