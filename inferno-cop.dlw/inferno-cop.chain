@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 801
+slug  : inferno-cop
+seal  : 8bf841c50ede6edf1a42e587b0d1981a73b6044f9758e9108cfe38e68e45f596
+prev  : 1c7cdb1d669373b906721ab5dab2c593026465f6b4cb67a159711478dc7e685c
+link  : 5c9a784abc6bc24e90abd9d999d7bf17a072d8702190aba7b117f847653ce174
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
